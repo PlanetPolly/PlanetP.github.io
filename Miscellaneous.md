@@ -36,3 +36,4 @@ But always they become popular later.
 #### 2021
 * solid and surface
 * analysis
+* in the marginalia of life
