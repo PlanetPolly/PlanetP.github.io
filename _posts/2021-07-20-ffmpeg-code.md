@@ -37,9 +37,12 @@ ffmpeg -i 0005.mp4 -f image2 -vf fps=fps=1/0.5 -qscale:v 2 mp4-%05d.jpg
 ```
 
 6. screen size
+(1)
 ```
 ffmpeg -i 0005.mp4 -filter:v "pad=ih*16/9:ih:(ow-iw)/2:(oh-ih)/2" -c:a copy output.mp4
-
+```
+(2)
+```
 ffmpeg -i 0005.mp4 -vf scale=1920:1080 06.mp4
 ```
 
