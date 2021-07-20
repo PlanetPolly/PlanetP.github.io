@@ -1,7 +1,10 @@
 ---
 layout: post
-title: how is matter created (translated from https://www.askamathematician.com/2021/03/q-how-is-matter-created-can-we-create-new-matter-and-would-that-be-useful/)
+title: how is matter created 
 ---
+
+(translated from https://www.askamathematician.com/2021/03/q-how-is-matter-created-can-we-create-new-matter-and-would-that-be-useful/)
+
 Q: 如何创造物质？我们能创造新的有用的物质吗？
 Psysicist：有趣的问题，来龙去脉就很有趣，这问题应该用斜体标注。看下面：
 
