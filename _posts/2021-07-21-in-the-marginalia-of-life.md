@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of *in the margin of the life*
+title: Review of [in the margins of life]
 ---
 
 Qian Zhongshu was a literature master in the 1900s. Through works like *Fortress Besieged* and *Human, Beast, Ghost*, he left an indelible footprint on modern Chinese literature. His strong memory and language sense characterized his works with numerous quotations from diverse national literatures. Contemporary writers just praised him as “a walking library,” and he always surprised me with unproposed profound ideas and brilliant examples in several languages.
